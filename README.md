@@ -26,7 +26,7 @@ Caller Abel calls help desk again to report recurring issue happening for days. 
 <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/8ae7d7d1-89e0-4cf7-a383-30b7670d24af" />
 
 ## 1. Screenshot
-The green highlighted "New" is the first stage of the ITSM-Problem Management Life Cycle
+NEW – The Problem is identified and recorded for further assessment and investigation.
 <img width="1365" height="768" alt="image_b39ad994" src="https://github.com/user-attachments/assets/7e43b262-5d3c-4067-97a2-e04ee109cafd" />
 
 ## 2. Screenshot
@@ -34,7 +34,7 @@ Second stage "ASSESS" The Assignment group/Problem Administrator will Assess if 
 <img width="1672" height="941" alt="ServiceNow Problem Assessment Page" src="https://github.com/user-attachments/assets/93b253b6-bc9c-4eb2-ab84-5e1306fa5ab3" />
 
 ## 3. Screenshot
-Third stage is "ROOT CAUSE ANALYSIS." Exact Problem and ways to get it resolved
+Third stage is "ROOT CAUSE ANALYSIS." RCA – Investigated related incidents to identify the underlying cause and determine a permanent solution
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/9b06586d-6456-4621-8d58-464aba4e1eb6" />
 
 ## Screenshot of Workaround and Cause notes
