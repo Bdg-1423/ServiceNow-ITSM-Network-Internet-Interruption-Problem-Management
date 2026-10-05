@@ -55,7 +55,7 @@ A permanent fix or workaround has been implemented and tested, but the ticket re
 Closed means the root cause and permanent fix are completed, documented, and the problem is formally closed.
 <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/5188b850-544f-4fae-ad96-48817cef40b2" />
 
-## Tools & Technologies Used
+## Tools & Technologies Used:
 
  ServiceNow Platform | ITSM | Problem Management | Incident Management | Root Cause Analysis (RCA) | Problem Tasks | Workflow | Knowledge Management | Reports & Dashboards | Network Troubleshooting
 
